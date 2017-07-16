@@ -20,22 +20,8 @@ public class PlayerConfig {
 	}
 	
 //	@Bean
-//	public CDPlayer cdPlayer(){
-//		return new CDPlayer(sgtPeppers());
-//	}
-//	
-//	@Bean
-//	public VideoPlayer videoPlayer(){
-//		return new VideoPlayer();
-//	}
-	
-//	@Bean
 //	public Audience audience(){
 //		return new Audience();
 //	}
 	
-//	@Bean
-//	public ExtraOperationIntroduction ExtraOperationIntroduction(){
-//		return new ExtraOperationIntroduction();
-//	}
 }
